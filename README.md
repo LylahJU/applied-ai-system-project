@@ -1,6 +1,6 @@
 # 🎮 AI Game Glitch Investigator
 
-[![Watch the demo](assets/thumbnail.png)](assets/video.mp4)
+[![Watch the demo](assets/thumbnail.png)](assets/video.mov)
 
 ## 📌 Original Project - Game Glitch Investigator
 This project began as a Streamlit-based number guessing game where users try to guess a secret number with hints and scoring.
