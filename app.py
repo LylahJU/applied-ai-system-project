@@ -95,6 +95,7 @@ if submit:
     if not ok:
         st.error(err)
         logging.warning(f"Invalid input: {raw_guess}")
+        st.stop()
     else:
         st.session_state.attempts += 1
 

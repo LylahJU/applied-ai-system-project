@@ -1,1 +1,13 @@
 INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Range: [22, 50] | Hint: Try a number between 22 and 50. A good guess is 36. | Confidence: 0.5
+INFO:root:AI Hint: {'hint': 'Try a number between 22 and 50. A good guess is 36.', 'confidence': 0.5}
+INFO:root:Range: [37, 50] | Hint: Try a number between 37 and 50. A good guess is 43. | Confidence: 0.72
+INFO:root:AI Hint: {'hint': 'Try a number between 37 and 50. A good guess is 43.', 'confidence': 0.72}
+INFO:root:Range: [44, 50] | Hint: Try a number between 44 and 50. A good guess is 47. | Confidence: 0.86
+INFO:root:AI Hint: {'hint': 'Try a number between 44 and 50. A good guess is 47.', 'confidence': 0.86}
+INFO:root:Range: [44, 46] | Hint: Try a number between 44 and 46. A good guess is 45. | Confidence: 0.94
+INFO:root:AI Hint: {'hint': 'Try a number between 44 and 46. A good guess is 45.', 'confidence': 0.94}
+INFO:root:Range: [44, 44] | Hint: Try a number between 44 and 44. A good guess is 44. | Confidence: 0.98
+INFO:root:AI Hint: {'hint': 'Try a number between 44 and 44. A good guess is 44.', 'confidence': 0.98}
+INFO:root:Range: [44, 44] | Hint: Try a number between 44 and 44. A good guess is 44. | Confidence: 0.98
+INFO:root:AI Hint: {'hint': 'Try a number between 44 and 44. A good guess is 44.', 'confidence': 0.98}
